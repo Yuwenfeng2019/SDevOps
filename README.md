@@ -10,10 +10,11 @@ Intergrating serveral open source projects like NetData(https://github.com/netda
 3. Integrate project Cilium for API-aware Networking and Security that leveraging eBPF/XDP to support microserivces-oriented and containerized 
    services/applications, especilly for those running with kubernetes cluster;
 4. Integrate project ntopng(https://github.com/ntop) to enhance network traffic monitoring and analysis;   
-5. Combine the Web UI of NetData, Cilium(Hubble), and ntopng for visualized observing and troubleshooting, and better support single-host or 
+5. Introduce new time series databases for high performance storage(both for single-host or distributed scenario); 
+6. Combine the Web UI of NetData, Cilium(Hubble), and ntopng for visualized observing and troubleshooting, and better support single-host or 
    distributed scenario; 
-6. Use FastAPI(https://github.com/tiangolo/fastapi) to build the unified APIs for the whole system;
-7. A well-designed modular and plugin based software architecure together with preserved module interface for AI-assisted system management and 
+7. Use FastAPI(https://github.com/tiangolo/fastapi) to build the unified APIs for the whole system;
+8. A well-designed modular and plugin based software architecure together with preserved module interface for AI-assisted system management and 
    fault-tolerance, real-time data processing engine, and user defined functions.
 
 ...
