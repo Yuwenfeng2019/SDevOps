@@ -1,5 +1,5 @@
 # SDevOps
-An eBPF(https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)-centric，microservices-aware DevOps with the assistance of AI and Security
+An eBPF(https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) -centric，microservices-aware DevOps with the assistance of AI and Security
 technologies.
 
 Intergrating serveral open source projects like NetData(https://github.com/netdata) and Cilium(https://github.com/cilium) to achieve our new designs:
